@@ -1,0 +1,2002 @@
+{
+    "cards": [
+      {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "714487",
+              "name": "Sharief Bhai",
+              "city": "1",
+              "slugs": {
+                "restaurant": "sharief-bhai-whitefield-whitefield-3",
+                "city": "bangalore"
+              },
+              "cloudinaryImageId": "6a12b0317ec31e9f74d97d65de2136af",
+              "address": "Site No -2, 987/262, Ground Floor, White Field Main Road, Sathya Sai Layout, Bengaluru - 560066, KR Puram, Karanataka",
+              "locality": "Sathya Sai Layout",
+              "areaName": "Whitefield",
+              "costForTwo": "40000",
+              "costForTwoMessage": "₹400 FOR TWO",
+              "cuisines": [
+                "Biryani",
+                "Kebabs",
+                "Mughlai",
+                "Arabian",
+                "South Indian",
+                "Rolls & Wraps",
+                "Street Food",
+                "Fast Food",
+                "Desserts",
+                "Beverages"
+              ],
+              "avgRating": 4.1,
+              "feeDetails": {
+                
+              },
+              "avgRatingString": "4.1",
+              "totalRatingsString": "1K+",
+              "promoted": true,
+              "adTrackingId": "cid=17253045~p=0~adgrpid=17253045#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=714487~st=biryani~eid=bab38add-d2c8-4a5c-b88e-fa9f8fb7f83b~srvts=1724079397351",
+              "sla": {
+                "deliveryTime": 29,
+                "minDeliveryTime": 25,
+                "maxDeliveryTime": 30,
+                "lastMileTravel": 0.7,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "slaString": "25-30 MINS",
+                "lastMileTravelString": "0.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "opened": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "badges": {
+                "imageBadges": [
+                  {
+                    "imageId": "Rxawards/_CATEGORY-Biryani.png",
+                    "description": "Delivery!"
+                  }
+                ]
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "40% OFF",
+                "subHeader": "UPTO ₹80"
+              },
+              "ratingSlab": "RATING_SLAB_5",
+              "orderabilityCommunication": {
+                "title": {
+                  
+                },
+                "subTitle": {
+                  
+                },
+                "message": {
+                  
+                },
+                "customIcon": {
+                  
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "--"
+                }
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+              "screenName": "explore",
+              "context": "{\"tid\":\"null\",\"grid\":\"4f76326c-7da8-4cdd-b32c-01db32592a70\",\"queryUniqueId\":\"d465426d-9c28-e5d7-9d3b-0e301b72644d\",\"query\":\"Biryani\",\"adTrackingId\":\"cid=17253045~p=0~adgrpid=17253045#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=714487~st=biryani~eid=bab38add-d2c8-4a5c-b88e-fa9f8fb7f83b~srvts=1724079397351\"}",
+              "objectValue": "714487",
+              "impressionObjectName": "impression-restaurant-ad",
+              "clickObjectName": "click-restaurant-ad"
+            },
+            "ctaWithParams": {
+              "link": "swiggy://menu",
+              "type": "DEEPLINK",
+              "params": {
+                "source": "SEARCH",
+                "isSld": "false",
+                "sourceRequestId": "25ba69f24a823fe9fac61455b02ce843",
+                "restaurant_id": "714487",
+                "query": "Biryani",
+                "sourceSessionId": "fmk811f6-5712-4182-b824-3aa64336c895"
+              }
+            }
+          }
+      },
+      {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "27335",
+              "name": "Mani's Dum Biryani",
+              "city": "1",
+              "slugs": {
+                "restaurant": "manis-dum-biryani-whitefield-whitefield",
+                "city": "bangalore"
+              },
+              "cloudinaryImageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/27/bc960282-e31e-4e77-97e9-6c6ec9cec813_c46e6499-a9ca-43e8-91d5-85aa6f0afa15.jpg",
+              "address": "Plot No. 7, Prashanth Layout, Itpl Main Road, Near Hope Farm ,Whitefield Post, Bangalore-560066",
+              "locality": "Whitefield",
+              "areaName": "Whitefield",
+              "costForTwo": "49900",
+              "costForTwoMessage": "₹499 FOR TWO",
+              "cuisines": [
+                "Andhra",
+                "Biryani",
+                "North Indian"
+              ],
+              "avgRating": 4.3,
+              "feeDetails": {
+                
+              },
+              "avgRatingString": "4.3",
+              "totalRatingsString": "10K+",
+              "sla": {
+                "deliveryTime": 40,
+                "minDeliveryTime": 35,
+                "maxDeliveryTime": 40,
+                "lastMileTravel": 2.8,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "slaString": "35-40 MINS",
+                "lastMileTravelString": "2.7 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "opened": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "aggregatedDiscountInfo": {
+                "visible": true
+              },
+              "badges": {
+                "textExtendedBadges": [
+                  {
+                    "iconId": "guiltfree/GF_Logo_android_3x",
+                    "shortDescription": "options available",
+                    "fontColor": "#7E808C"
+                  }
+                ]
+              },
+              "aggregatedDiscountInfoV2": {
+                "visible": true
+              },
+              "ratingSlab": "RATING_SLAB_5",
+              "orderabilityCommunication": {
+                "title": {
+                  
+                },
+                "subTitle": {
+                  
+                },
+                "message": {
+                  
+                },
+                "customIcon": {
+                  
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "4.1",
+                  "ratingCount": "1K+"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+              "screenName": "explore",
+              "context": "{\"tid\":\"null\",\"grid\":\"4f76326c-7da8-4cdd-b32c-01db32592a70\",\"queryUniqueId\":\"d465426d-9c28-e5d7-9d3b-0e301b72644d\",\"query\":\"Biryani\"}",
+              "objectValue": "27335",
+              "impressionObjectName": "impression-restaurant",
+              "clickObjectName": "click-restaurant"
+            },
+            "ctaWithParams": {
+              "link": "swiggy://menu",
+              "type": "DEEPLINK",
+              "params": {
+                "restaurant_id": "27335",
+                "query": "Biryani",
+                "sourceSessionId": "fmk811f6-5712-4182-b824-3aa64336c895",
+                "source": "SEARCH",
+                "isSld": "false",
+                "sourceRequestId": "25ba69f24a823fe9fac61455b02ce843"
+              }
+            }
+          }
+      },
+      {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "45760",
+              "name": "Andhra Biryanis",
+              "city": "1",
+              "slugs": {
+                "restaurant": "andhra-biryanis-whitefield-whitefield",
+                "city": "bangalore"
+              },
+              "cloudinaryImageId": "fbsbxi2jxa06xllbeshl",
+              "address": "107, Sugruha, Patandur Agrahara, Near ITPL Back Gate, ITPL, Whitefield, Bangalore 560066",
+              "locality": "Patandur Agrahara",
+              "areaName": "Whitefield",
+              "costForTwo": "48000",
+              "costForTwoMessage": "₹480 FOR TWO",
+              "cuisines": [
+                "Andhra",
+                "Biryani",
+                "Hyderabadi",
+                "Chinese",
+                "Tandoor"
+              ],
+              "avgRating": 4.1,
+              "feeDetails": {
+                
+              },
+              "avgRatingString": "4.1",
+              "totalRatingsString": "10K+",
+              "promoted": true,
+              "adTrackingId": "cid=17247237~p=1~adgrpid=17247237#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=45760~st=biryani~eid=fd1160bb-8ee5-4782-9773-f67fd1799b5d~srvts=1724079397351",
+              "sla": {
+                "deliveryTime": 38,
+                "minDeliveryTime": 35,
+                "maxDeliveryTime": 40,
+                "lastMileTravel": 3,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "slaString": "35-40 MINS",
+                "lastMileTravelString": "3.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "opened": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "badges": {
+                "textExtendedBadges": [
+                  {
+                    "iconId": "guiltfree/GF_Logo_android_3x",
+                    "shortDescription": "options available",
+                    "fontColor": "#7E808C"
+                  }
+                ]
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "20% OFF",
+                "subHeader": "UPTO ₹50"
+              },
+              "ratingSlab": "RATING_SLAB_5",
+              "orderabilityCommunication": {
+                "title": {
+                  
+                },
+                "subTitle": {
+                  
+                },
+                "message": {
+                  
+                },
+                "customIcon": {
+                  
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "--"
+                }
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+              "screenName": "explore",
+              "context": "{\"tid\":\"null\",\"grid\":\"4f76326c-7da8-4cdd-b32c-01db32592a70\",\"queryUniqueId\":\"d465426d-9c28-e5d7-9d3b-0e301b72644d\",\"query\":\"Biryani\",\"adTrackingId\":\"cid=17247237~p=1~adgrpid=17247237#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=45760~st=biryani~eid=fd1160bb-8ee5-4782-9773-f67fd1799b5d~srvts=1724079397351\"}",
+              "objectValue": "45760",
+              "impressionObjectName": "impression-restaurant-ad",
+              "clickObjectName": "click-restaurant-ad"
+            },
+            "ctaWithParams": {
+              "link": "swiggy://menu",
+              "type": "DEEPLINK",
+              "params": {
+                "sourceRequestId": "25ba69f24a823fe9fac61455b02ce843",
+                "restaurant_id": "45760",
+                "query": "Biryani",
+                "sourceSessionId": "fmk811f6-5712-4182-b824-3aa64336c895",
+                "source": "SEARCH",
+                "isSld": "false"
+              }
+            }
+          
+        }
+      },
+      {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "692511",
+              "name": "Paradise Biryani",
+              "city": "1",
+              "slugs": {
+                "restaurant": "paradise-biryani-varthur-bellandur-sarjapur",
+                "city": "bangalore"
+              },
+              "cloudinaryImageId": "shcbf79hapveprvn4zz3",
+              "address": "Khata No.1164, Old Khata No.262,Pattandur Agrahara, Whitefield Main Road, Krishnarajapura Hobli, Kadugodi Ward No.83, Bangalore., Mahadevapura ,B.B.M.P East, Karnataka-560066",
+              "locality": "KRISHNARAJAPURA",
+              "areaName": "Whitefield",
+              "costForTwo": "40000",
+              "costForTwoMessage": "₹400 FOR TWO",
+              "cuisines": [
+                "Biryani",
+                "Kebabs",
+                "North Indian",
+                "Hyderabadi"
+              ],
+              "avgRating": 4.1,
+              "feeDetails": {
+                
+              },
+              "avgRatingString": "4.1",
+              "totalRatingsString": "1K+",
+              "sla": {
+                "deliveryTime": 26,
+                "minDeliveryTime": 25,
+                "maxDeliveryTime": 30,
+                "lastMileTravel": 0.7,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "slaString": "25-30 MINS",
+                "lastMileTravelString": "0.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "opened": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "badges": {
+                
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "subHeader": "UPTO ₹100"
+              },
+              "ratingSlab": "RATING_SLAB_5",
+              "orderabilityCommunication": {
+                "title": {
+                  
+                },
+                "subTitle": {
+                  
+                },
+                "message": {
+                  
+                },
+                "customIcon": {
+                  
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "4.0",
+                  "ratingCount": "1K+"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+              "screenName": "explore",
+              "context": "{\"tid\":\"null\",\"grid\":\"4f76326c-7da8-4cdd-b32c-01db32592a70\",\"queryUniqueId\":\"d465426d-9c28-e5d7-9d3b-0e301b72644d\",\"query\":\"Biryani\"}",
+              "objectValue": "692511",
+              "impressionObjectName": "impression-restaurant",
+              "clickObjectName": "click-restaurant"
+            },
+            "ctaWithParams": {
+              "link": "swiggy://menu",
+              "type": "DEEPLINK",
+              "params": {
+                "restaurant_id": "692511",
+                "query": "Biryani",
+                "sourceSessionId": "fmk811f6-5712-4182-b824-3aa64336c895",
+                "source": "SEARCH",
+                "isSld": "false",
+                "sourceRequestId": "25ba69f24a823fe9fac61455b02ce843"
+              }
+            }
+        }
+      },
+      {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "692371",
+              "name": "Donne Biryani @99",
+              "city": "1",
+              "slugs": {
+                "restaurant": "donne-biriyani@99-marathahalli-marathahalli",
+                "city": "bangalore"
+              },
+              "cloudinaryImageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/8/006ff655-2bec-40a1-a994-0e155f0920f2_0f0c924c-1c98-49cc-9611-0397d941f999_compressed",
+              "address": "No.258, Ground floor, Near Govt high schoool, Varthuru hobli, Panathur, Bengaluru, Mahadevapura , B.B.M.P East, Karnataka-560103",
+              "locality": "Chinnapanahalli",
+              "areaName": "Near Shuchodaya Apartment",
+              "costForTwo": "20000",
+              "costForTwoMessage": "₹200 FOR TWO",
+              "cuisines": [
+                "Biryani",
+                "Chinese",
+                "Snacks"
+              ],
+              "avgRating": 3.5,
+              "feeDetails": {
+                
+              },
+              "avgRatingString": "3.5",
+              "totalRatingsString": "1K+",
+              "promoted": true,
+              "adTrackingId": "cid=17244776~p=2~adgrpid=17244776#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=692371~st=biryani~eid=8437600a-a37f-4220-9c73-b729f7f8b4e5~srvts=1724079397351",
+              "sla": {
+                "deliveryTime": 56,
+                "minDeliveryTime": 55,
+                "maxDeliveryTime": 60,
+                "lastMileTravel": 8.6,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "slaString": "55-60 MINS",
+                "lastMileTravelString": "8.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "opened": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "badges": {
+                
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "10% OFF",
+                "subHeader": "UPTO ₹40"
+              },
+              "ratingSlab": "RATING_SLAB_4",
+              "orderabilityCommunication": {
+                "title": {
+                  
+                },
+                "subTitle": {
+                  
+                },
+                "message": {
+                  
+                },
+                "customIcon": {
+                  
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "--"
+                }
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+              "screenName": "explore",
+              "context": "{\"tid\":\"null\",\"grid\":\"4f76326c-7da8-4cdd-b32c-01db32592a70\",\"queryUniqueId\":\"d465426d-9c28-e5d7-9d3b-0e301b72644d\",\"query\":\"Biryani\",\"adTrackingId\":\"cid=17244776~p=2~adgrpid=17244776#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=692371~st=biryani~eid=8437600a-a37f-4220-9c73-b729f7f8b4e5~srvts=1724079397351\"}",
+              "objectValue": "692371",
+              "impressionObjectName": "impression-restaurant-ad",
+              "clickObjectName": "click-restaurant-ad"
+            },
+            "ctaWithParams": {
+              "link": "swiggy://menu",
+              "type": "DEEPLINK",
+              "params": {
+                "sourceSessionId": "fmk811f6-5712-4182-b824-3aa64336c895",
+                "source": "SEARCH",
+                "isSld": "false",
+                "sourceRequestId": "25ba69f24a823fe9fac61455b02ce843",
+                "restaurant_id": "692371",
+                "query": "Biryani"
+              }
+            }
+        }
+      },
+      {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "363",
+              "name": "Meghana Foods",
+              "city": "1",
+              "slugs": {
+                "restaurant": "meghana-foods-outer-ring-road-marathahalli",
+                "city": "bangalore"
+              },
+              "cloudinaryImageId": "iivuhjc2mswi9lublktf",
+              "address": "Above Sony Centre, Opposite Park Plaza, Outer Ring Road, Marathahalli",
+              "locality": "Marathahalli",
+              "areaName": "Kadubeesanahalli",
+              "costForTwo": "50000",
+              "costForTwoMessage": "₹500 FOR TWO",
+              "cuisines": [
+                "Biryani",
+                "Andhra",
+                "South Indian",
+                "Chinese",
+                "Seafood"
+              ],
+              "avgRating": 4.4,
+              "feeDetails": {
+                
+              },
+              "avgRatingString": "4.4",
+              "totalRatingsString": "10K+",
+              "sla": {
+                "deliveryTime": 60,
+                "minDeliveryTime": 60,
+                "maxDeliveryTime": 65,
+                "lastMileTravel": 7.7,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "slaString": "60-65 MINS",
+                "lastMileTravelString": "7.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "opened": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "aggregatedDiscountInfo": {
+                "visible": true
+              },
+              "badges": {
+                "imageBadges": [
+                  {
+                    "imageId": "Rxawards/_CATEGORY-Biryani.png",
+                    "description": "Delivery!"
+                  }
+                ]
+              },
+              "aggregatedDiscountInfoV2": {
+                "visible": true
+              },
+              "ratingSlab": "RATING_SLAB_5",
+              "orderabilityCommunication": {
+                "title": {
+                  
+                },
+                "subTitle": {
+                  
+                },
+                "message": {
+                  
+                },
+                "customIcon": {
+                  
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "4.1",
+                  "ratingCount": "10K+"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+              "screenName": "explore",
+              "context": "{\"tid\":\"null\",\"grid\":\"4f76326c-7da8-4cdd-b32c-01db32592a70\",\"queryUniqueId\":\"d465426d-9c28-e5d7-9d3b-0e301b72644d\",\"query\":\"Biryani\"}",
+              "objectValue": "363",
+              "impressionObjectName": "impression-restaurant",
+              "clickObjectName": "click-restaurant"
+            },
+            "ctaWithParams": {
+              "link": "swiggy://menu",
+              "type": "DEEPLINK",
+              "params": {
+                "isSld": "false",
+                "sourceRequestId": "25ba69f24a823fe9fac61455b02ce843",
+                "restaurant_id": "363",
+                "query": "Biryani",
+                "sourceSessionId": "fmk811f6-5712-4182-b824-3aa64336c895",
+                "source": "SEARCH"
+              }
+            }
+          }
+      },
+      {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "483589",
+              "name": "Orbis Restaurant",
+              "city": "1",
+              "slugs": {
+                "restaurant": "orbis-restaurant-whitefield-whitefield-3",
+                "city": "bangalore"
+              },
+              "cloudinaryImageId": "9676fc89f0af00509bb340617d19176e",
+              "address": "N O.9, Khata N O.226I']31 8/9,C Roun D, First A\\]D Basement Floor, Prashanth Res]Dential Layout,I T P L Road,Pattandi Jr Agrahara Village,Wh]Tefield-Eangalore, N4Ahadevapura, B.B-1,4.P East, (Arna",
+              "locality": "Whitefield",
+              "areaName": "Whitefield",
+              "costForTwo": "40000",
+              "costForTwoMessage": "₹400 FOR TWO",
+              "cuisines": [
+                "North Indian",
+                "Biryani",
+                "Chinese",
+                "Arabian",
+                "Desserts"
+              ],
+              "avgRating": 4,
+              "feeDetails": {
+                
+              },
+              "avgRatingString": "4.0",
+              "totalRatingsString": "1K+",
+              "promoted": true,
+              "adTrackingId": "cid=17253683~p=3~adgrpid=17253683#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=483589~st=biryani~eid=9e6a7dc2-072b-4fc3-88e7-e7d3f590341f~srvts=1724079397351",
+              "sla": {
+                "deliveryTime": 43,
+                "minDeliveryTime": 40,
+                "maxDeliveryTime": 45,
+                "lastMileTravel": 2.2,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "slaString": "40-45 MINS",
+                "lastMileTravelString": "2.2 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "opened": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "badges": {
+                
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "40% OFF",
+                "subHeader": "UPTO ₹80"
+              },
+              "ratingSlab": "RATING_SLAB_4",
+              "orderabilityCommunication": {
+                "title": {
+                  
+                },
+                "subTitle": {
+                  
+                },
+                "message": {
+                  
+                },
+                "customIcon": {
+                  
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "3.8",
+                  "ratingCount": "5K+"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+              "screenName": "explore",
+              "context": "{\"tid\":\"null\",\"grid\":\"4f76326c-7da8-4cdd-b32c-01db32592a70\",\"queryUniqueId\":\"d465426d-9c28-e5d7-9d3b-0e301b72644d\",\"query\":\"Biryani\",\"adTrackingId\":\"cid=17253683~p=3~adgrpid=17253683#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=483589~st=biryani~eid=9e6a7dc2-072b-4fc3-88e7-e7d3f590341f~srvts=1724079397351\"}",
+              "objectValue": "483589",
+              "impressionObjectName": "impression-restaurant-ad",
+              "clickObjectName": "click-restaurant-ad"
+            },
+            "ctaWithParams": {
+              "link": "swiggy://menu",
+              "type": "DEEPLINK",
+              "params": {
+                "source": "SEARCH",
+                "isSld": "false",
+                "sourceRequestId": "25ba69f24a823fe9fac61455b02ce843",
+                "restaurant_id": "483589",
+                "query": "Biryani",
+                "sourceSessionId": "fmk811f6-5712-4182-b824-3aa64336c895"
+              }
+            }
+          }
+      },
+      {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "96510",
+              "name": "Potful - Claypot Biryanis",
+              "city": "1",
+              "slugs": {
+                "restaurant": "potful-whitefield",
+                "city": "bangalore"
+              },
+              "cloudinaryImageId": "yuvkgkvqhdj5mkxjpdjv",
+              "address": "11,ground floor,arya hub,near hope form junction,whitefield,bangalore-560066",
+              "locality": "Arya Hub mall",
+              "areaName": "Whitefield",
+              "costForTwo": "50000",
+              "costForTwoMessage": "₹500 FOR TWO",
+              "cuisines": [
+                "Biryani",
+                "North Indian",
+                "Mughlai",
+                "Kebabs",
+                "Desserts",
+                "Beverages"
+              ],
+              "avgRating": 4.4,
+              "feeDetails": {
+                
+              },
+              "avgRatingString": "4.4",
+              "totalRatingsString": "10K+",
+              "sla": {
+                "deliveryTime": 64,
+                "minDeliveryTime": 60,
+                "maxDeliveryTime": 65,
+                "lastMileTravel": 2.5,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "slaString": "60-65 MINS",
+                "lastMileTravelString": "2.5 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "opened": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "badges": {
+                "textExtendedBadges": [
+                  {
+                    "iconId": "guiltfree/GF_Logo_android_3x",
+                    "shortDescription": "brand",
+                    "fontColor": "#7E808C"
+                  }
+                ]
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "60% OFF",
+                "subHeader": "UPTO ₹120"
+              },
+              "ratingSlab": "RATING_SLAB_5",
+              "orderabilityCommunication": {
+                "title": {
+                  
+                },
+                "subTitle": {
+                  
+                },
+                "message": {
+                  
+                },
+                "customIcon": {
+                  
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "--"
+                }
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+              "screenName": "explore",
+              "context": "{\"tid\":\"null\",\"grid\":\"4f76326c-7da8-4cdd-b32c-01db32592a70\",\"queryUniqueId\":\"d465426d-9c28-e5d7-9d3b-0e301b72644d\",\"query\":\"Biryani\"}",
+              "objectValue": "96510",
+              "impressionObjectName": "impression-restaurant",
+              "clickObjectName": "click-restaurant"
+            },
+            "ctaWithParams": {
+              "link": "swiggy://menu",
+              "type": "DEEPLINK",
+              "params": {
+                "restaurant_id": "96510",
+                "query": "Biryani",
+                "sourceSessionId": "fmk811f6-5712-4182-b824-3aa64336c895",
+                "source": "SEARCH",
+                "isSld": "false",
+                "sourceRequestId": "25ba69f24a823fe9fac61455b02ce843"
+              }
+            }
+          }
+      },
+      {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "699629",
+              "name": "Thali Tales By Biryani Box",
+              "city": "1",
+              "slugs": {
+                "restaurant": "thali-tales-by-biryani-box-whitefield-whitefield",
+                "city": "bangalore"
+              },
+              "cloudinaryImageId": "lwdtdgr2mm9wtmdbgs95",
+              "address": "Unit No 78/2 Siddapappura, Narulahalli, Whitefiled Bangalore- 560066",
+              "locality": "Siddapappura",
+              "areaName": "Whitefield",
+              "costForTwo": "40000",
+              "costForTwoMessage": "₹400 FOR TWO",
+              "cuisines": [
+                "Biryani",
+                "Thalis"
+              ],
+              "avgRating": 4.2,
+              "feeDetails": {
+                
+              },
+              "avgRatingString": "4.2",
+              "totalRatingsString": "500+",
+              "promoted": true,
+              "adTrackingId": "cid=17253060~p=4~adgrpid=17253060#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=699629~st=biryani~eid=9cd4b3c4-be50-4ca8-b762-daef8af4a69b~srvts=1724079397351",
+              "sla": {
+                "deliveryTime": 38,
+                "minDeliveryTime": 35,
+                "maxDeliveryTime": 40,
+                "lastMileTravel": 2.5,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "slaString": "35-40 MINS",
+                "lastMileTravelString": "2.5 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "opened": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "badges": {
+                
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "60% OFF",
+                "subHeader": "UPTO ₹120"
+              },
+              "ratingSlab": "RATING_SLAB_5",
+              "orderabilityCommunication": {
+                "title": {
+                  
+                },
+                "subTitle": {
+                  
+                },
+                "message": {
+                  
+                },
+                "customIcon": {
+                  
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "--"
+                }
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+              "screenName": "explore",
+              "context": "{\"tid\":\"null\",\"grid\":\"4f76326c-7da8-4cdd-b32c-01db32592a70\",\"queryUniqueId\":\"d465426d-9c28-e5d7-9d3b-0e301b72644d\",\"query\":\"Biryani\",\"adTrackingId\":\"cid=17253060~p=4~adgrpid=17253060#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=699629~st=biryani~eid=9cd4b3c4-be50-4ca8-b762-daef8af4a69b~srvts=1724079397351\"}",
+              "objectValue": "699629",
+              "impressionObjectName": "impression-restaurant-ad",
+              "clickObjectName": "click-restaurant-ad"
+            },
+            "ctaWithParams": {
+              "link": "swiggy://menu",
+              "type": "DEEPLINK",
+              "params": {
+                "sourceRequestId": "25ba69f24a823fe9fac61455b02ce843",
+                "restaurant_id": "699629",
+                "query": "Biryani",
+                "sourceSessionId": "fmk811f6-5712-4182-b824-3aa64336c895",
+                "source": "SEARCH",
+                "isSld": "false"
+              }
+            }
+          }
+      },
+      {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "424981",
+              "name": "Biryani Blues",
+              "city": "1",
+              "slugs": {
+                "restaurant": "biryani-blues-whitefield-whitefield",
+                "city": "bangalore"
+              },
+              "cloudinaryImageId": "qfk9v4fkghtgoybpwtui",
+              "address": "Shop No. 78/2, Ist & 2nd Floor, Nallurahalli, Main Road, Whitefield, Bangalore  560066",
+              "locality": "Nallurahalli",
+              "areaName": "Whitefield",
+              "costForTwo": "40000",
+              "costForTwoMessage": "₹400 FOR TWO",
+              "cuisines": [
+                "Biryani",
+                "Hyderabadi",
+                "Lucknowi",
+                "Kebabs"
+              ],
+              "avgRating": 4.1,
+              "feeDetails": {
+                
+              },
+              "avgRatingString": "4.1",
+              "totalRatingsString": "1K+",
+              "sla": {
+                "deliveryTime": 34,
+                "minDeliveryTime": 30,
+                "maxDeliveryTime": 35,
+                "lastMileTravel": 2.5,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "slaString": "30-35 MINS",
+                "lastMileTravelString": "2.5 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "opened": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "badges": {
+                
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "40% OFF",
+                "subHeader": "UPTO ₹75",
+                "discountTag": "POCKET HERO",
+                "discountCalloutInfo": {
+                  "message": "Free Delivery",
+                  "logoCtx": {
+                    "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                  }
+                }
+              },
+              "ratingSlab": "RATING_SLAB_5",
+              "orderabilityCommunication": {
+                "title": {
+                  
+                },
+                "subTitle": {
+                  
+                },
+                "message": {
+                  
+                },
+                "customIcon": {
+                  
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "--"
+                }
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+              "screenName": "explore",
+              "context": "{\"tid\":\"null\",\"grid\":\"4f76326c-7da8-4cdd-b32c-01db32592a70\",\"queryUniqueId\":\"d465426d-9c28-e5d7-9d3b-0e301b72644d\",\"query\":\"Biryani\"}",
+              "objectValue": "424981",
+              "impressionObjectName": "impression-restaurant",
+              "clickObjectName": "click-restaurant"
+            },
+            "ctaWithParams": {
+              "link": "swiggy://menu",
+              "type": "DEEPLINK",
+              "params": {
+                "restaurant_id": "424981",
+                "query": "Biryani",
+                "sourceSessionId": "fmk811f6-5712-4182-b824-3aa64336c895",
+                "source": "SEARCH",
+                "isSld": "false",
+                "sourceRequestId": "25ba69f24a823fe9fac61455b02ce843"
+              }
+            }
+          }
+      },
+      {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "375063",
+              "name": "Andhra Gunpowder",
+              "city": "1",
+              "slugs": {
+                "restaurant": "andhra-gunpowder-kadugodi-kadugodi",
+                "city": "bangalore"
+              },
+              "cloudinaryImageId": "janhgjevj4xnyyg5htnv",
+              "address": "#24, M.S. Commercial Building, 1st Floor, Kadugodi, Kanmangala Post Opp. Opposite to Shell Petrol Bunk, Honda Showroom Building, Bangalore- 560067",
+              "locality": "Seegehalli",
+              "areaName": "Kadugodi",
+              "costForTwo": "35000",
+              "costForTwoMessage": "₹350 FOR TWO",
+              "cuisines": [
+                "Andhra",
+                "Biryani",
+                "South Indian"
+              ],
+              "avgRating": 4.4,
+              "feeDetails": {
+                
+              },
+              "avgRatingString": "4.4",
+              "totalRatingsString": "1K+",
+              "promoted": true,
+              "adTrackingId": "cid=17244502~p=5~adgrpid=17244502#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=375063~st=biryani~eid=cbf7e6bd-c0a7-4430-a35a-8740d152b1c4~srvts=1724079397351",
+              "sla": {
+                "deliveryTime": 44,
+                "minDeliveryTime": 40,
+                "maxDeliveryTime": 45,
+                "lastMileTravel": 5.6,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "slaString": "40-45 MINS",
+                "lastMileTravelString": "5.5 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "opened": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "badges": {
+                "imageBadges": [
+                  {
+                    "imageId": "Rxawards/_CATEGORY-Andhra.png",
+                    "description": "Delivery!"
+                  }
+                ]
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "20% OFF",
+                "subHeader": "UPTO ₹50"
+              },
+              "ratingSlab": "RATING_SLAB_5",
+              "orderabilityCommunication": {
+                "title": {
+                  
+                },
+                "subTitle": {
+                  
+                },
+                "message": {
+                  
+                },
+                "customIcon": {
+                  
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "--"
+                }
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+              "screenName": "explore",
+              "context": "{\"tid\":\"null\",\"grid\":\"4f76326c-7da8-4cdd-b32c-01db32592a70\",\"queryUniqueId\":\"d465426d-9c28-e5d7-9d3b-0e301b72644d\",\"query\":\"Biryani\",\"adTrackingId\":\"cid=17244502~p=5~adgrpid=17244502#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=375063~st=biryani~eid=cbf7e6bd-c0a7-4430-a35a-8740d152b1c4~srvts=1724079397351\"}",
+              "objectValue": "375063",
+              "impressionObjectName": "impression-restaurant-ad",
+              "clickObjectName": "click-restaurant-ad"
+            },
+            "ctaWithParams": {
+              "link": "swiggy://menu",
+              "type": "DEEPLINK",
+              "params": {
+                "source": "SEARCH",
+                "isSld": "false",
+                "sourceRequestId": "25ba69f24a823fe9fac61455b02ce843",
+                "restaurant_id": "375063",
+                "query": "Biryani",
+                "sourceSessionId": "fmk811f6-5712-4182-b824-3aa64336c895"
+              }
+            }
+          }
+      },
+      {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "27767",
+              "name": "Biriyani Zone",
+              "city": "1",
+              "slugs": {
+                "restaurant": "biriyani-zone-whitefield-whitefield",
+                "city": "bangalore"
+              },
+              "cloudinaryImageId": "fnfm0c6ktfexu2qpzrds",
+              "address": "No 9, Epip Zone, Whitefield, Opp To Vydehi Hospital, Bangalore 66",
+              "locality": "Marathahalli",
+              "areaName": "Whitefield",
+              "costForTwo": "60000",
+              "costForTwoMessage": "₹600 FOR TWO",
+              "cuisines": [
+                "Biryani",
+                "Andhra",
+                "South Indian",
+                "Tandoor"
+              ],
+              "avgRating": 4.2,
+              "feeDetails": {
+                
+              },
+              "avgRatingString": "4.2",
+              "totalRatingsString": "10K+",
+              "sla": {
+                "deliveryTime": 35,
+                "minDeliveryTime": 35,
+                "maxDeliveryTime": 40,
+                "lastMileTravel": 3.5,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "slaString": "35-40 MINS",
+                "lastMileTravelString": "3.5 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "opened": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "badges": {
+                
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "20% OFF",
+                "subHeader": "UPTO ₹50"
+              },
+              "ratingSlab": "RATING_SLAB_5",
+              "orderabilityCommunication": {
+                "title": {
+                  
+                },
+                "subTitle": {
+                  
+                },
+                "message": {
+                  
+                },
+                "customIcon": {
+                  
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "4.0",
+                  "ratingCount": "10K+"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+              "screenName": "explore",
+              "context": "{\"tid\":\"null\",\"grid\":\"4f76326c-7da8-4cdd-b32c-01db32592a70\",\"queryUniqueId\":\"d465426d-9c28-e5d7-9d3b-0e301b72644d\",\"query\":\"Biryani\"}",
+              "objectValue": "27767",
+              "impressionObjectName": "impression-restaurant",
+              "clickObjectName": "click-restaurant"
+            },
+            "ctaWithParams": {
+              "link": "swiggy://menu",
+              "type": "DEEPLINK",
+              "params": {
+                "isSld": "false",
+                "sourceRequestId": "25ba69f24a823fe9fac61455b02ce843",
+                "restaurant_id": "27767",
+                "query": "Biryani",
+                "sourceSessionId": "fmk811f6-5712-4182-b824-3aa64336c895",
+                "source": "SEARCH"
+              }
+            }
+          }
+      },
+      {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "699448",
+              "name": "Advaita Restaurant",
+              "city": "1",
+              "slugs": {
+                "restaurant": "advaita-restaurant-whitefield-whitefield",
+                "city": "bangalore"
+              },
+              "cloudinaryImageId": "28e03806670b2d1038db79475edd03ed",
+              "address": "No.27/6, Ground Floor, Immadahalli Road, Immadihalli, Whitefield, Bangalore ,,Mahadevapura ,B.B.M.P East,Karnataka-560066\t",
+              "locality": "Whitefield",
+              "areaName": "Whitefield",
+              "costForTwo": "25000",
+              "costForTwoMessage": "₹250 FOR TWO",
+              "cuisines": [
+                "Biryani",
+                "South Indian",
+                "Chinese",
+                "North Indian",
+                "Tandoor",
+                "Thalis"
+              ],
+              "avgRating": 4.3,
+              "feeDetails": {
+                
+              },
+              "avgRatingString": "4.3",
+              "totalRatingsString": "1K+",
+              "sla": {
+                "deliveryTime": 37,
+                "minDeliveryTime": 35,
+                "maxDeliveryTime": 40,
+                "lastMileTravel": 1.4,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "slaString": "35-40 MINS",
+                "lastMileTravelString": "1.3 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "opened": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "badges": {
+                
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "40% OFF",
+                "subHeader": "UPTO ₹80",
+                "discountCalloutInfo": {
+                  "message": "Free Delivery",
+                  "logoCtx": {
+                    "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                  }
+                }
+              },
+              "ratingSlab": "RATING_SLAB_5",
+              "orderabilityCommunication": {
+                "title": {
+                  
+                },
+                "subTitle": {
+                  
+                },
+                "message": {
+                  
+                },
+                "customIcon": {
+                  
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "4.4",
+                  "ratingCount": "500+"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+              "screenName": "explore",
+              "context": "{\"tid\":\"null\",\"grid\":\"4f76326c-7da8-4cdd-b32c-01db32592a70\",\"queryUniqueId\":\"d465426d-9c28-e5d7-9d3b-0e301b72644d\",\"query\":\"Biryani\"}",
+              "objectValue": "699448",
+              "impressionObjectName": "impression-restaurant",
+              "clickObjectName": "click-restaurant"
+            },
+            "ctaWithParams": {
+              "link": "swiggy://menu",
+              "type": "DEEPLINK",
+              "params": {
+                "query": "Biryani",
+                "sourceSessionId": "fmk811f6-5712-4182-b824-3aa64336c895",
+                "source": "SEARCH",
+                "isSld": "false",
+                "sourceRequestId": "25ba69f24a823fe9fac61455b02ce843",
+                "restaurant_id": "699448"
+              }
+            }
+          }
+      },
+      {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "297639",
+              "name": "Thalairaj Biryani",
+              "city": "1",
+              "slugs": {
+                "restaurant": "thalaivars-biryani-whitefield-whitefield",
+                "city": "bangalore"
+              },
+              "cloudinaryImageId": "1e9f2a656c0e752a5a0ff80ea302c1ab",
+              "address": "No FC - 11, 4th Floor, Ascendas Park Square Mall, Whitefield, ITPL, Mahadevapura, Bengaluru, B.B.M.P East, Karnataka - 560066",
+              "locality": "Whitefield",
+              "areaName": "Whitefield",
+              "costForTwo": "30000",
+              "costForTwoMessage": "₹300 FOR TWO",
+              "cuisines": [
+                "Andhra",
+                "Biryani",
+                "Hyderabadi",
+                "South Indian",
+                "Indian",
+                "Kebabs",
+                "Snacks",
+                "Beverages"
+              ],
+              "avgRating": 4.3,
+              "feeDetails": {
+                
+              },
+              "avgRatingString": "4.3",
+              "totalRatingsString": "5K+",
+              "sla": {
+                "deliveryTime": 48,
+                "minDeliveryTime": 45,
+                "maxDeliveryTime": 50,
+                "lastMileTravel": 3.6,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "slaString": "45-50 MINS",
+                "lastMileTravelString": "3.5 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "opened": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "badges": {
+                
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "subHeader": "UPTO ₹100"
+              },
+              "ratingSlab": "RATING_SLAB_5",
+              "orderabilityCommunication": {
+                "title": {
+                  
+                },
+                "subTitle": {
+                  
+                },
+                "message": {
+                  
+                },
+                "customIcon": {
+                  
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "3.9",
+                  "ratingCount": "100+"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+              "screenName": "explore",
+              "context": "{\"tid\":\"null\",\"grid\":\"4f76326c-7da8-4cdd-b32c-01db32592a70\",\"queryUniqueId\":\"d465426d-9c28-e5d7-9d3b-0e301b72644d\",\"query\":\"Biryani\"}",
+              "objectValue": "297639",
+              "impressionObjectName": "impression-restaurant",
+              "clickObjectName": "click-restaurant"
+            },
+            "ctaWithParams": {
+              "link": "swiggy://menu",
+              "type": "DEEPLINK",
+              "params": {
+                "query": "Biryani",
+                "sourceSessionId": "fmk811f6-5712-4182-b824-3aa64336c895",
+                "source": "SEARCH",
+                "isSld": "false",
+                "sourceRequestId": "25ba69f24a823fe9fac61455b02ce843",
+                "restaurant_id": "297639"
+              }
+            }
+          }
+      },
+      {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "28608",
+              "name": "Imperio Restaurant",
+              "city": "1",
+              "slugs": {
+                "restaurant": "imperio-restaurant-whitefield-whitefield",
+                "city": "bangalore"
+              },
+              "cloudinaryImageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/14/3aac561e-583e-4618-98f4-258eda870c86_ff2bba69-6f22-4b87-a960-e893eba1277e.jpg",
+              "address": "Hagadur main road,near value forum mall, brookbond whitefiled-560066",
+              "locality": "Gunjur",
+              "areaName": "Whitefield",
+              "costForTwo": "50000",
+              "costForTwoMessage": "₹500 FOR TWO",
+              "cuisines": [
+                "Biryani",
+                "Kebabs",
+                "South Indian",
+                "Tandoor",
+                "Beverages",
+                "Desserts",
+                "Ice Cream"
+              ],
+              "avgRating": 4.1,
+              "feeDetails": {
+                
+              },
+              "avgRatingString": "4.1",
+              "totalRatingsString": "10K+",
+              "sla": {
+                "deliveryTime": 31,
+                "minDeliveryTime": 30,
+                "maxDeliveryTime": 35,
+                "lastMileTravel": 1.1,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "slaString": "30-35 MINS",
+                "lastMileTravelString": "1.1 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "opened": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "badges": {
+                "textExtendedBadges": [
+                  {
+                    "iconId": "guiltfree/GF_Logo_android_3x",
+                    "shortDescription": "options available",
+                    "fontColor": "#7E808C"
+                  }
+                ]
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "30% OFF",
+                "subHeader": "UPTO ₹75"
+              },
+              "ratingSlab": "RATING_SLAB_5",
+              "orderabilityCommunication": {
+                "title": {
+                  
+                },
+                "subTitle": {
+                  
+                },
+                "message": {
+                  
+                },
+                "customIcon": {
+                  
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "3.9",
+                  "ratingCount": "5K+"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+              "screenName": "explore",
+              "context": "{\"tid\":\"null\",\"grid\":\"4f76326c-7da8-4cdd-b32c-01db32592a70\",\"queryUniqueId\":\"d465426d-9c28-e5d7-9d3b-0e301b72644d\",\"query\":\"Biryani\"}",
+              "objectValue": "28608",
+              "impressionObjectName": "impression-restaurant",
+              "clickObjectName": "click-restaurant"
+            },
+            "ctaWithParams": {
+              "link": "swiggy://menu",
+              "type": "DEEPLINK",
+              "params": {
+                "source": "SEARCH",
+                "isSld": "false",
+                "sourceRequestId": "25ba69f24a823fe9fac61455b02ce843",
+                "restaurant_id": "28608",
+                "query": "Biryani",
+                "sourceSessionId": "fmk811f6-5712-4182-b824-3aa64336c895"
+              }
+            }
+          }
+      },
+      {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "634181",
+              "name": "Thalassery Restaurant",
+              "city": "1",
+              "slugs": {
+                "restaurant": "thalassery-restaurant-whitefield-whitefield",
+                "city": "bangalore"
+              },
+              "cloudinaryImageId": "bmsku9vb5pnlpzu9nfdm",
+              "address": "PEARL GRAND TOWER, SITE NO.5, BBMP KATHA NO.436/535, ITPL MAIN ROAD, PRASHANTH LAYOUT, PATTANDUR AGRAHARA, WHITEFIELD, BANGALORE-560067, Mahadevapura , B.B.M.P East, Karnataka-560067",
+              "locality": "Prashanth Layout",
+              "areaName": "Whitefield",
+              "costForTwo": "45000",
+              "costForTwoMessage": "₹450 FOR TWO",
+              "cuisines": [
+                "South American",
+                "Arabian",
+                "Chinese",
+                "Kerala",
+                "North Indian"
+              ],
+              "avgRating": 4.2,
+              "feeDetails": {
+                
+              },
+              "avgRatingString": "4.2",
+              "totalRatingsString": "1K+",
+              "sla": {
+                "deliveryTime": 34,
+                "minDeliveryTime": 30,
+                "maxDeliveryTime": 35,
+                "lastMileTravel": 2.2,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "slaString": "30-35 MINS",
+                "lastMileTravelString": "2.2 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "opened": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "badges": {
+                
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "20% OFF",
+                "subHeader": "UPTO ₹50"
+              },
+              "ratingSlab": "RATING_SLAB_5",
+              "orderabilityCommunication": {
+                "title": {
+                  
+                },
+                "subTitle": {
+                  
+                },
+                "message": {
+                  
+                },
+                "customIcon": {
+                  
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "--"
+                }
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+              "screenName": "explore",
+              "context": "{\"tid\":\"null\",\"grid\":\"4f76326c-7da8-4cdd-b32c-01db32592a70\",\"queryUniqueId\":\"d465426d-9c28-e5d7-9d3b-0e301b72644d\",\"query\":\"Biryani\"}",
+              "objectValue": "634181",
+              "impressionObjectName": "impression-restaurant",
+              "clickObjectName": "click-restaurant"
+            },
+            "ctaWithParams": {
+              "link": "swiggy://menu",
+              "type": "DEEPLINK",
+              "params": {
+                "sourceRequestId": "25ba69f24a823fe9fac61455b02ce843",
+                "restaurant_id": "634181",
+                "query": "Biryani",
+                "sourceSessionId": "fmk811f6-5712-4182-b824-3aa64336c895",
+                "source": "SEARCH",
+                "isSld": "false"
+              }
+            }
+          }
+      },
+      {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "391004",
+              "name": "ZAZA Mughal Biryani",
+              "city": "1",
+              "slugs": {
+                "restaurant": "zaza-21-spice-biryani-kadugodi-whitefield",
+                "city": "bangalore"
+              },
+              "cloudinaryImageId": "40a998759a886fecfcbb610b3dcf8efe",
+              "address": "55/2, PLOT No-266, Ground Floor,1 Whitefield Main Road, Opp.Post Office, Bore Well Road, Whitefield Bangalore-560066",
+              "locality": "Opp.Post Office",
+              "areaName": "Whitefield",
+              "costForTwo": "25000",
+              "costForTwoMessage": "₹250 FOR TWO",
+              "cuisines": [
+                "Biryani",
+                "North Indian",
+                "Awadhi"
+              ],
+              "avgRating": 4.3,
+              "feeDetails": {
+                
+              },
+              "avgRatingString": "4.3",
+              "totalRatingsString": "500+",
+              "sla": {
+                "deliveryTime": 25,
+                "minDeliveryTime": 20,
+                "maxDeliveryTime": 30,
+                "lastMileTravel": 0.3,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "slaString": "20-30 MINS",
+                "lastMileTravelString": "0.3 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "opened": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "badges": {
+                "textExtendedBadges": [
+                  {
+                    "iconId": "guiltfree/GF_Logo_android_3x",
+                    "shortDescription": "options available",
+                    "fontColor": "#7E808C"
+                  }
+                ]
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "₹100 OFF",
+                "subHeader": "ABOVE ₹299",
+                "discountTag": "FLAT DEAL"
+              },
+              "ratingSlab": "RATING_SLAB_5",
+              "orderabilityCommunication": {
+                "title": {
+                  
+                },
+                "subTitle": {
+                  
+                },
+                "message": {
+                  
+                },
+                "customIcon": {
+                  
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "--"
+                }
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+              "screenName": "explore",
+              "context": "{\"tid\":\"null\",\"grid\":\"4f76326c-7da8-4cdd-b32c-01db32592a70\",\"queryUniqueId\":\"d465426d-9c28-e5d7-9d3b-0e301b72644d\",\"query\":\"Biryani\"}",
+              "objectValue": "391004",
+              "impressionObjectName": "impression-restaurant",
+              "clickObjectName": "click-restaurant"
+            },
+            "ctaWithParams": {
+              "link": "swiggy://menu",
+              "type": "DEEPLINK",
+              "params": {
+                "source": "SEARCH",
+                "isSld": "false",
+                "sourceRequestId": "25ba69f24a823fe9fac61455b02ce843",
+                "restaurant_id": "391004",
+                "query": "Biryani",
+                "sourceSessionId": "fmk811f6-5712-4182-b824-3aa64336c895"
+              }
+            }
+          }
+      },
+      {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "410343",
+              "name": "Biryani By Kilo",
+              "city": "1",
+              "slugs": {
+                "restaurant": "biryani-by-kilo-whitefield-whitefield",
+                "city": "bangalore"
+              },
+              "cloudinaryImageId": "91a1a3aa8fd2c03443bedad1f8041e20",
+              "address": "120/A3, First Floor, Santosh Tower,  Epip Area Near Itpl, Whitefield, Bengaluru",
+              "locality": "Santosh Tower",
+              "areaName": "Whitefield",
+              "costForTwo": "50000",
+              "costForTwoMessage": "₹500 FOR TWO",
+              "cuisines": [
+                "Biryani",
+                "Hyderabadi",
+                "North Indian",
+                "Kebabs",
+                "Mughlai",
+                "Desserts"
+              ],
+              "avgRating": 4.2,
+              "feeDetails": {
+                
+              },
+              "avgRatingString": "4.2",
+              "totalRatingsString": "5K+",
+              "sla": {
+                "deliveryTime": 60,
+                "minDeliveryTime": 60,
+                "maxDeliveryTime": 65,
+                "lastMileTravel": 3.7,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "slaString": "60-65 MINS",
+                "lastMileTravelString": "3.7 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "opened": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "badges": {
+                "textExtendedBadges": [
+                  {
+                    "iconId": "guiltfree/GF_Logo_android_3x",
+                    "shortDescription": "options available",
+                    "fontColor": "#7E808C"
+                  }
+                ]
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "subHeader": "UPTO ₹100"
+              },
+              "ratingSlab": "RATING_SLAB_5",
+              "orderabilityCommunication": {
+                "title": {
+                  
+                },
+                "subTitle": {
+                  
+                },
+                "message": {
+                  
+                },
+                "customIcon": {
+                  
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "externalRatings": {
+                "aggregatedRating": {
+                  "rating": "3.3",
+                  "ratingCount": "100+"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+              },
+              "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+              "screenName": "explore",
+              "context": "{\"tid\":\"null\",\"grid\":\"4f76326c-7da8-4cdd-b32c-01db32592a70\",\"queryUniqueId\":\"d465426d-9c28-e5d7-9d3b-0e301b72644d\",\"query\":\"Biryani\"}",
+              "objectValue": "410343",
+              "impressionObjectName": "impression-restaurant",
+              "clickObjectName": "click-restaurant"
+            },
+            "ctaWithParams": {
+              "link": "swiggy://menu",
+              "type": "DEEPLINK",
+              "params": {
+                "query": "Biryani",
+                "sourceSessionId": "fmk811f6-5712-4182-b824-3aa64336c895",
+                "source": "SEARCH",
+                "isSld": "false",
+                "sourceRequestId": "25ba69f24a823fe9fac61455b02ce843",
+                "restaurant_id": "410343"
+              }
+            }
+          }
+      }
+    ]
+}
