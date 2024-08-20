@@ -1,0 +1,2 @@
+export const LOGO_URL = "https://marketplace.canva.com/EAFzZd9frfk/1/0/1600w/canva-colorful-illustrative-restaurant-master-chef-logo-4rQv_oY-CF8.jpg";
+export const IMAGE_URL= "https://media-assets.swiggy.com/swiggy/image/upload/"
