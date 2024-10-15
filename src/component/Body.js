@@ -1,15 +1,30 @@
 import RestaurantCard from "./RestaurantCard";
 import { cards } from "../utils/data.json";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 var resData = cards;
 
 const Body = () => {
-    const [restaurantList, setRestaurantList] = useState(cards);
+    const [restaurantList, setRestaurantList] = useState([]);
+    const [filterRestaurant, setFilterRestaurant] = useState([]); 
+    const [searchRes, setSearchRes] = useState('');
+
+    useEffect(() => {
+      fetchData();
+    },[])
+
+    const fetchData = async () => {
+      const data = await cards;
+      setRestaurantList(data);
+      setFilterRestaurant(data);
+    }
+
+    
+    const getSearchValue = (e) => {
+      setSearchRes(e.target.value)
+    }
 
     const topRatingRestaurant = () => {
-        const top = [...resData];
-        console.log(top.cards)
         const store = restaurantList.filter(a => {
             return a.card.info.avgRating > 4.2;   
         });
@@ -19,11 +34,21 @@ const Body = () => {
     }
     return (
       <div className="body">
+        <div className="filter">
+        <div className="search">
+        <input type="text" className="search-box" placeholder="Search here..." value={searchRes} onChange={getSearchValue} />
+        <button onClick={() => {
+          // console.log(restaurantList)
+          const filterRes = restaurantList.filter(a => a.card.info.name.toLowerCase().includes(searchRes.toLowerCase()))
+          setFilterRestaurant(filterRes)
+          // console.log(filterRes)
+        }}>Search</button>
+        </div>
         <button className="top" onClick={topRatingRestaurant}>Top Rated Restaurant</button>
+        </div>
         <div className="res-container">
           {
-          restaurantList.map((card) => (
-              // console.log(card.card.info.id)
+          filterRestaurant.map((card) => (
             <RestaurantCard key={card.card.info.id} restaurant={card} />
           ))
           }
