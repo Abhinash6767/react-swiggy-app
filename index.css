@@ -60,3 +60,13 @@
 .filter {
     display: flex;
 }
+
+.resCardLink {
+    text-decoration: none;
+    color: inherit;
+}
+
+.restaurantMenu {
+    display: flex;
+    justify-content: center;
+}
